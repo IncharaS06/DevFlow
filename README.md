@@ -5,13 +5,13 @@ DevFlow is an AI-powered development workflow platform built to streamline and a
 🌐 [Live App](https://cheery-selkie-59ac31.netlify.app/)  
 📦 [Repository](https://github.com/yashwanths814/DevFlow)
 
----
+
 
 ## 💡 Inspiration
 
 Developers often wrestle with repetitive tasks across multiple platforms — code reviews, documentation, bug prediction, analytics, and integrations. DevFlow was born from the idea of reducing friction and bringing intelligent automation to each stage of development.
 
----
+
 
 ## ✨ What DevFlow Does
 
@@ -22,7 +22,7 @@ Developers often wrestle with repetitive tasks across multiple platforms — cod
 - 🛒 **Tool Integrations Marketplace** — Seamless plug-ins for GitHub, Slack, CI tools
 - 🎨 **Animated & Responsive UI** — Polished design using Framer Motion & Tailwind
 
----
+
 
 ## ⚙️ How It’s Built
 
@@ -35,13 +35,22 @@ Developers often wrestle with repetitive tasks across multiple platforms — cod
 | Routing    | Component-based with full state mgmt|
 | Deployment | Netlify                             |
 
----
+
 
 ## 📁 Modular Architecture
 
-DevFlow/ ├── pages/ # Dashboard, CodeReview, Docs, BugPredictor ├── components/ # UI elements and reusable layouts ├── animations/ # Framer Motion wrappers ├── visualizations/ # Recharts configs and charts ├── AI/ # Code analysis & documentation models ├── styles/ # Tailwind config ├── public/ # Static assets
+```bash
+DevFlow/
+├── pages/           # Dashboard, CodeReview, Docs, BugPredictor
+├── components/      # UI elements and reusable layouts
+├── animations/      # Framer Motion wrappers
+├── visualizations/  # Recharts configs and charts
+├── AI/              # Code analysis & documentation models
+├── styles/          # Tailwind config
+├── public/          # Static assets
 
----
+
+
 
 ## 🏆 Accomplishments
 
@@ -50,13 +59,13 @@ DevFlow/ ├── pages/ # Dashboard, CodeReview, Docs, BugPredictor ├── 
 - Dashboard feels cohesive, intuitive, and developer-friendly
 - Delivered both function and polish worthy of a SaaS product
 
----
+
 
 ## 📣 Contributing
 
 Pull requests are welcome. For major changes, open an issue first to discuss.
 
----
+
 
 ## 📄 License
 
