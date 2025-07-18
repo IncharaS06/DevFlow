@@ -36,22 +36,6 @@ Developers often wrestle with repetitive tasks across multiple platforms — cod
 | Deployment | Netlify                             |
 
 
-
-## 📁 Modular Architecture
-
-```bash
-DevFlow/
-├── pages/           # Dashboard, CodeReview, Docs, BugPredictor
-├── components/      # UI elements and reusable layouts
-├── animations/      # Framer Motion wrappers
-├── visualizations/  # Recharts configs and charts
-├── AI/              # Code analysis & documentation models
-├── styles/          # Tailwind config
-├── public/          # Static assets
-```bash
-
-
-
 ## 🏆 Accomplishments
 
 - Built a full MVP with 6 modules in one sprint
@@ -66,7 +50,18 @@ DevFlow/
 Pull requests are welcome. For major changes, open an issue first to discuss.
 
 
-
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 📁 Modular Architecture
+
+```bash
+DevFlow/
+├── pages/           # Dashboard, CodeReview, Docs, BugPredictor
+├── components/      # UI elements and reusable layouts
+├── animations/      # Framer Motion wrappers
+├── visualizations/  # Recharts configs and charts
+├── AI/              # Code analysis & documentation models
+├── styles/          # Tailwind config
+├── public/          # Static assets
